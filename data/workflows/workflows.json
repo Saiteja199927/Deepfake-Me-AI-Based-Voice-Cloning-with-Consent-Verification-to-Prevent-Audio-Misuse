@@ -1,0 +1,316 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-10T17:13:30.281618+00:00",
+  "workflows": [
+    {
+      "workflow_id": "4b69ccdb-2b3d-43a9-921a-73ba998b213f",
+      "user_id": "siva@gmail.com",
+      "workflow_type": "basic_tts",
+      "status": "completed",
+      "current_step": 4,
+      "total_steps": 3,
+      "steps": [
+        {
+          "step_id": "ddc8612d-c837-4547-93b9-fe9f3f838579",
+          "step_number": 1,
+          "consent_type": "terms_of_service",
+          "title": "Terms of Service",
+          "description": "Review and accept our terms of service",
+          "required": true,
+          "status": "granted",
+          "consent_id": "b3bd771e-ffca-4dc6-822f-f1a282b417f3",
+          "completed_at": "2026-02-05T05:29:37.092659+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "8eb09714-a16c-4766-948c-94cdf4f012bf",
+          "step_number": 2,
+          "consent_type": "privacy_policy",
+          "title": "Privacy Policy",
+          "description": "Review and accept our privacy policy",
+          "required": true,
+          "status": "granted",
+          "consent_id": "56014bbb-8cbe-4ede-a401-d0c6a6c86981",
+          "completed_at": "2026-02-05T05:29:46.319151+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "f8688111-da96-4ce0-9ce1-831e7d3d1054",
+          "step_number": 3,
+          "consent_type": "data_processing",
+          "title": "Data Processing",
+          "description": "Consent to data processing for TTS services",
+          "required": true,
+          "status": "granted",
+          "consent_id": "c0fbf55e-14d1-44c1-b051-5b9914a4ae52",
+          "completed_at": "2026-02-05T05:29:49.210996+00:00",
+          "skipped": false
+        }
+      ],
+      "created_at": "2026-02-05T05:29:31.349728+00:00",
+      "updated_at": "2026-02-05T05:29:49.210996+00:00",
+      "completed_at": "2026-02-05T05:29:49.210996+00:00",
+      "metadata": {}
+    },
+    {
+      "workflow_id": "f4aae6c4-e2e3-49bc-989f-9e2386fe9bca",
+      "user_id": "siva@gmail.com",
+      "workflow_type": "voice_recording",
+      "status": "completed",
+      "current_step": 5,
+      "total_steps": 4,
+      "steps": [
+        {
+          "step_id": "84e311bb-2268-4775-8f4c-e5a3f7d574da",
+          "step_number": 1,
+          "consent_type": "terms_of_service",
+          "title": "Terms of Service",
+          "description": "Review and accept our terms of service",
+          "required": true,
+          "status": "granted",
+          "consent_id": "713520f9-7441-4272-b696-a9cc4d925033",
+          "completed_at": "2026-02-05T05:30:01.076337+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "a06a578f-ec16-4009-82b9-dc690192ce72",
+          "step_number": 2,
+          "consent_type": "privacy_policy",
+          "title": "Privacy Policy",
+          "description": "Review and accept our privacy policy",
+          "required": true,
+          "status": "granted",
+          "consent_id": "57bce27b-b83a-49a8-becb-fd3eab451c34",
+          "completed_at": "2026-02-05T05:30:08.540253+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "e52a387a-0d3b-41af-bd22-92cbc5999a86",
+          "step_number": 3,
+          "consent_type": "voice_recording",
+          "title": "Voice Recording Authorization",
+          "description": "Authorize recording of your voice",
+          "required": true,
+          "status": "granted",
+          "consent_id": "74f461a8-5fd1-465e-b133-4a87d3628b5b",
+          "completed_at": "2026-02-05T05:30:11.745235+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "2a68ad7b-ba9c-4b4a-94b6-7420ceb26d39",
+          "step_number": 4,
+          "consent_type": "data_processing",
+          "title": "Data Processing",
+          "description": "Consent to processing of voice data",
+          "required": true,
+          "status": "granted",
+          "consent_id": "45c842ea-02a2-4fca-ac44-a700d78f5cd3",
+          "completed_at": "2026-02-05T05:30:14.935899+00:00",
+          "skipped": false
+        }
+      ],
+      "created_at": "2026-02-05T05:29:55.126362+00:00",
+      "updated_at": "2026-02-05T05:30:14.935899+00:00",
+      "completed_at": "2026-02-05T05:30:14.935899+00:00",
+      "metadata": {}
+    },
+    {
+      "workflow_id": "1275ada2-699a-4a1f-b26b-cb0a23bceb3f",
+      "user_id": "siva@gmail.com",
+      "workflow_type": "voice_recording",
+      "status": "completed",
+      "current_step": 5,
+      "total_steps": 4,
+      "steps": [
+        {
+          "step_id": "de2449b2-9766-45c2-96fb-4c9c01a426b5",
+          "step_number": 1,
+          "consent_type": "terms_of_service",
+          "title": "Terms of Service",
+          "description": "Review and accept our terms of service",
+          "required": true,
+          "status": "granted",
+          "consent_id": "2a00146a-100c-46ee-9309-296271bda236",
+          "completed_at": "2026-02-05T05:30:35.525034+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "09d29434-d4ff-4be8-a32d-61d86685cc82",
+          "step_number": 2,
+          "consent_type": "privacy_policy",
+          "title": "Privacy Policy",
+          "description": "Review and accept our privacy policy",
+          "required": true,
+          "status": "granted",
+          "consent_id": "3203ffc0-591a-4eda-bb6a-4ff58f819754",
+          "completed_at": "2026-02-05T05:30:38.485611+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "eebed785-5840-4e60-b731-406850f3f532",
+          "step_number": 3,
+          "consent_type": "voice_recording",
+          "title": "Voice Recording Authorization",
+          "description": "Authorize recording of your voice",
+          "required": true,
+          "status": "granted",
+          "consent_id": "98abbd81-55d9-4cce-bd73-b43cf792ec96",
+          "completed_at": "2026-02-05T05:30:39.189540+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "fbca2e0c-2f21-42e0-808b-0fc62ac63f13",
+          "step_number": 4,
+          "consent_type": "data_processing",
+          "title": "Data Processing",
+          "description": "Consent to processing of voice data",
+          "required": true,
+          "status": "granted",
+          "consent_id": "3083f6a2-d89d-4eee-9dfb-9f33c7e97024",
+          "completed_at": "2026-02-05T05:30:40.209354+00:00",
+          "skipped": false
+        }
+      ],
+      "created_at": "2026-02-05T05:30:20.835545+00:00",
+      "updated_at": "2026-02-05T05:30:40.209354+00:00",
+      "completed_at": "2026-02-05T05:30:40.209354+00:00",
+      "metadata": {}
+    },
+    {
+      "workflow_id": "a6a8841d-fb1f-4866-9944-71a735cccb15",
+      "user_id": "siva@gmail.com",
+      "workflow_type": "voice_cloning",
+      "status": "completed",
+      "current_step": 7,
+      "total_steps": 6,
+      "steps": [
+        {
+          "step_id": "18025e41-11f3-4d45-af43-e2477a070860",
+          "step_number": 1,
+          "consent_type": "terms_of_service",
+          "title": "Terms of Service",
+          "description": "Review and accept our terms of service",
+          "required": true,
+          "status": "granted",
+          "consent_id": "6b4a5446-76da-42ab-9402-b7e794b2ca5d",
+          "completed_at": "2026-02-05T05:30:45.320559+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "04b32bae-de1b-47cd-b50e-9f14d4c2c259",
+          "step_number": 2,
+          "consent_type": "privacy_policy",
+          "title": "Privacy Policy",
+          "description": "Review and accept our privacy policy",
+          "required": true,
+          "status": "granted",
+          "consent_id": "65519778-6f36-4ee5-995a-ba0002b194c0",
+          "completed_at": "2026-02-05T05:30:45.553761+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "aaee2ff6-bd3e-40f8-86ed-30da4218cecb",
+          "step_number": 3,
+          "consent_type": "voice_recording",
+          "title": "Voice Recording Authorization",
+          "description": "Authorize recording of your voice",
+          "required": true,
+          "status": "granted",
+          "consent_id": "5c5dbcd1-0098-492c-ada9-c15cac879565",
+          "completed_at": "2026-02-05T05:30:47.107656+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "e474d174-bebb-4375-90e7-1b193f5d7181",
+          "step_number": 4,
+          "consent_type": "voice_cloning",
+          "title": "Voice Cloning Consent",
+          "description": "Authorize creation of a synthetic voice",
+          "required": true,
+          "status": "granted",
+          "consent_id": "22689552-1642-4b60-8085-864b4b918dea",
+          "completed_at": "2026-02-05T05:30:47.349749+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "98aae634-86ce-4c21-96ce-1574b40a55e2",
+          "step_number": 5,
+          "consent_type": "data_processing",
+          "title": "Data Processing",
+          "description": "Consent to AI processing of voice data",
+          "required": true,
+          "status": "granted",
+          "consent_id": "df884ca5-212e-4ea1-8173-319bd51d8bfb",
+          "completed_at": "2026-02-05T05:30:47.572907+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "9091cbf3-8673-4d61-ab11-f129b69482ab",
+          "step_number": 6,
+          "consent_type": "commercial_use",
+          "title": "Commercial Use (Optional)",
+          "description": "Allow commercial use of generated content",
+          "required": false,
+          "status": "granted",
+          "consent_id": "8c59667a-a75a-4da2-805a-1d64c32e963d",
+          "completed_at": "2026-02-05T05:30:47.793524+00:00",
+          "skipped": false
+        }
+      ],
+      "created_at": "2026-02-05T05:30:42.901515+00:00",
+      "updated_at": "2026-02-05T05:30:47.793524+00:00",
+      "completed_at": "2026-02-05T05:30:47.793524+00:00",
+      "metadata": {}
+    },
+    {
+      "workflow_id": "c8ef0700-8ca7-4464-97a9-640fc0ddffd6",
+      "user_id": "siva@gmail.com",
+      "workflow_type": "basic_tts",
+      "status": "in_progress",
+      "current_step": 2,
+      "total_steps": 3,
+      "steps": [
+        {
+          "step_id": "b43650ce-05ce-44d8-86fe-1a9acdb46bd8",
+          "step_number": 1,
+          "consent_type": "terms_of_service",
+          "title": "Terms of Service",
+          "description": "Review and accept our terms of service",
+          "required": true,
+          "status": "granted",
+          "consent_id": "252f6dde-a5dc-4645-8dba-59905b817557",
+          "completed_at": "2026-02-10T17:13:30.275135+00:00",
+          "skipped": false
+        },
+        {
+          "step_id": "88960f47-200a-46ed-9cd7-c1638696214a",
+          "step_number": 2,
+          "consent_type": "privacy_policy",
+          "title": "Privacy Policy",
+          "description": "Review and accept our privacy policy",
+          "required": true,
+          "status": "pending",
+          "consent_id": null,
+          "completed_at": null,
+          "skipped": false
+        },
+        {
+          "step_id": "de985a54-e223-4499-b6a8-ab9bb34d9ae1",
+          "step_number": 3,
+          "consent_type": "data_processing",
+          "title": "Data Processing",
+          "description": "Consent to data processing for TTS services",
+          "required": true,
+          "status": "pending",
+          "consent_id": null,
+          "completed_at": null,
+          "skipped": false
+        }
+      ],
+      "created_at": "2026-02-10T16:42:44.479289+00:00",
+      "updated_at": "2026-02-10T17:13:30.275135+00:00",
+      "completed_at": null,
+      "metadata": {}
+    }
+  ]
+}
